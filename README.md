@@ -2,4 +2,4 @@
 Edit from local
 Editing my file
 
-Edit from GIT
+Adding new lines for testing.Edit from GIT
